@@ -13,7 +13,7 @@ ___
 
 > 명함, 스티커, 표지판, 간판, 현수막, 포스터, 교통수단 도색, 책자, 의류 및 잡화, 제품 포장, 식당 메뉴판 등
 
-![CMYK and RGB](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=nanona3260&logNo=140187304042&view=img_1)
+![CMYK and RGB](http://snq.co.kr/guides/basic/img/04_1.jpg)
 
 ### RGB
 #### RGB란?

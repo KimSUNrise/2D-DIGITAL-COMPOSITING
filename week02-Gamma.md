@@ -39,13 +39,16 @@ ___
 
 이를 체험해 볼 수 있는 간단한 방법이 있다. 소소한 재미가 있으니 한번쯤 해보길 추천한다.
 아래 두 그라데이션의 정가운데 색을 찝어 위쪽부터 1, 2라고 해보자. 둘 중 어느 색이 더 정확한 회색 같아 보이는가?
-![Middle of Gradation](https://user-images.githubusercontent.com/90572845/137594920-f42d3ed2-ac98-4e22-b565-3fd8964fa7b7.png)
-![Gray 1,2](https://user-images.githubusercontent.com/90572845/137594926-27b0a0f8-5ee4-4f1e-82f1-1d89767cb2f9.png)
+
+![Middle of Gradation](https://user-images.githubusercontent.com/90572845/137594968-e4ada52d-4b8d-4e75-8348-840b3493db27.png)![Gray 1,2](https://user-images.githubusercontent.com/90572845/137594926-27b0a0f8-5ee4-4f1e-82f1-1d89767cb2f9.png)
+
 그 정답을 알기 위해서는 검은색과 흰색을 바둑판처럼 배치해서 병치 혼합을 만들어 보면 알 수 있다. 멀리 떨어진 상태에서 아주 가늘게 실눈을 뜨고 아래의 바둑판 무늬를 바라보자. 그러고는 1, 2와 다시 비교해보자. 놀랍지 않은가 2번과 훨씬 가까운 색이 보인다. 그렇기 때문에 우리 인간은 물리적으로 정확한 그라데이션보다 어두운 부분을 늘리고 밝은 부분을 좁힌 그라데이션이 더 정확하고 인식한다.
+
 ![Real Gray](https://user-images.githubusercontent.com/90572845/137594933-2d7f5058-7774-4a04-9fa1-065af706beb3.png)
 
 https://www.youtube.com/watch?v=Gteb2BuzQGU
 https://www.youtube.com/watch?v=Xwlm5V-bnBc
+
 
 ### 감마를 활용한 작업 Linear Workflow
 https://www.youtube.com/watch?v=Xwlm5V-bnBc

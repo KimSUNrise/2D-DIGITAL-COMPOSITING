@@ -32,7 +32,7 @@ ___
 
 ![Gradation_1,2](https://user-images.githubusercontent.com/90572845/137594857-8d08375e-30f2-47a0-96f8-acd90ff50cca.png)
 
-그 이유는 베버-페히너의 법칙에서 알 수 있다. 이는 인간이 감각이 자극의 변화를 느끼기 위해서 처음 자극에 대해 일정 비율 이상으로 자극을 받아야 한다는 이론이다. 인간은 자극이 없는 상태에서 추가된 자극에는 민감하게 반응하지만, 이미 많은 자극을 받은 상태에서는 같은 양의 자극이 추가되어도 둔감하게 반응한다. 예를 들어 캄캄한 방에 촛불 하나를 켜면 굉장히 변화가 커 보이지만, 전등을 켜둔 상태에서 촛불하나를 켜면 크게 변화를 느끼지 못한다. 이처럼 어두운 부분은 작은 변화도 인지하기 쉽기 때문에 어두운 부분의 계조를 더 촘촘이 구성해야 인간을 일정하다고 느낀다.
+그 이유는 **베버-페히너의 법칙**에서 알 수 있다. 이는 인간이 감각이 자극의 변화를 느끼기 위해서 처음 자극에 대해 일정 비율 이상으로 자극을 받아야 한다는 이론이다. 인간은 자극이 없는 상태에서 추가된 자극에는 민감하게 반응하지만, 이미 많은 자극을 받은 상태에서는 같은 양의 자극이 추가되어도 둔감하게 반응한다. 예를 들어 캄캄한 방에 촛불 하나를 켜면 굉장히 변화가 커 보이지만, 전등을 켜둔 상태에서 촛불하나를 켜면 크게 변화를 느끼지 못한다. 이처럼 어두운 부분은 작은 변화도 인지하기 쉽기 때문에 어두운 부분의 계조를 더 촘촘이 구성해야 인간을 일정하다고 느낀다.
 
 ![Linear Grad](https://user-images.githubusercontent.com/90572845/137594902-505e0691-980e-4870-abc1-dd05dc746e4d.png)
 ![Gamma Grad](https://user-images.githubusercontent.com/90572845/137594904-ea7736e2-9df7-4c4a-8644-49576f71738d.png)
@@ -46,9 +46,9 @@ ___
 
 ![Real Gray](https://user-images.githubusercontent.com/90572845/137594933-2d7f5058-7774-4a04-9fa1-065af706beb3.png)
 
-https://www.youtube.com/watch?v=Gteb2BuzQGU
 https://www.youtube.com/watch?v=Xwlm5V-bnBc
 
 
 ### 감마를 활용한 작업 Linear Workflow
+
 https://www.youtube.com/watch?v=Xwlm5V-bnBc

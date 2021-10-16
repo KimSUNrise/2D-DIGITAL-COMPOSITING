@@ -48,7 +48,7 @@ ___
 
 그 정답을 알기 위해서는 검은색과 흰색을 바둑판처럼 배치해서 병치 혼합을 만들어 보면 알 수 있다. 멀리 떨어진 상태에서 아주 가늘게 실눈을 뜨고 아래의 바둑판 무늬를 바라보자. 그러고는 1, 2와 다시 비교해보자. 놀랍지 않은가 2번과 훨씬 가까운 색이 보인다. 그렇기 때문에 우리 인간은 물리적으로 정확한 그라데이션보다 어두운 부분을 늘리고 밝은 부분을 좁힌 그라데이션이 더 정확하고 인식한다.
 
-![Real Gray](https://user-images.githubusercontent.com/90572845/137594933-2d7f5058-7774-4a04-9fa1-065af706beb3.png)
+![realgray](https://user-images.githubusercontent.com/90572845/137595324-5c002878-d1ff-4e8f-bbb7-ffdc2037b737.png)
 
 https://www.youtube.com/watch?v=Xwlm5V-bnBc
 

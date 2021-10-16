@@ -6,7 +6,9 @@
 현재 우리가 주로 사용하는 LCD와 OLED 모니터는 이러한 특성을 가지고 있지 않다. 그럼에도 카메라의 규격이 CRT 모니터의 특성에 맞춰 만들어져있기 때문에 LCD와 OLED 모니터는 CRT 모니터가 가진 감마 곡선을 흉내 내도록 제작되고 있다.
 ![감마곡선 Gamma Curve](https://helpguide.sony.net/di/pp/v1/en/contents/image/gamma_01.png)
 https://helpguide.sony.net/di/pp/v1/en/contents/TP0000909107.html
+
 ___
+
 ### 왜 감마는 밝기와 가장 큰 연관성을 지닌 것일까?
 색, 채도, 밝기 같은 다양한 요소가 있는데 왜 감마는 밝기에 가장 큰 영향을 주는 것일까?
 
@@ -20,8 +22,10 @@ sRGB 색공간은 감마 2.2를 표준감마로 정하고 있지만, BBC와 같�
 
 참고문헌)
 이성청 외, “모니터에서 감마변화에 따른 색재현 특성 (Characteristics of Color Reproduction using Gamma Variation on CRT Display)”, 한국인쇄학회지 v.23 no.2, 2005.
-https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO200522034013489&SITE=CLICK
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO200522034013489&SITE=CLICK 
+
 ___
+
 ### 감마의 속성?
 감마가 앞서 본 그래프와 같은 모양을 하고 있는 이유가 있다. 또 이미지 프로그램에서 사용하는 감마의 특성 모두 사람의 지각 방식과 관계가 있다.
 
@@ -48,6 +52,7 @@ ___
 
 https://www.youtube.com/watch?v=Xwlm5V-bnBc
 
+___
 
 ### 감마를 활용한 작업 Linear Workflow
 
